@@ -1,19 +1,5 @@
-# vue-playground
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+| Project:  | Vue Playground                     |
+|-----------|-----------------------------------|
+| Course:   | Boise Codeworks Fullstack Program |
+| Date:     | January 18, 2021                  |
+| Position: | Week 6, Day 1                     |
